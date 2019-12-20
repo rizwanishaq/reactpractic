@@ -1,5 +1,5 @@
 # this is another repo for practcing react, 
-# video take from https://www.youtube.com/watch?v=SVqbskuRxKo
+# code is based on video from https://www.youtube.com/watch?v=SVqbskuRxKo
 
 
 
